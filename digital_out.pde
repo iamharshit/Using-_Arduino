@@ -5,7 +5,7 @@ int outPin=13;
 
 void setup()
 {
-    pinMode(outpin,OUTPUT);
+    pinMode(outPin,OUTPUT);
 }
 
 void loop()
