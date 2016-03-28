@@ -13,3 +13,5 @@ void loop()
     state = digitalRead(inPin);
     delay(500);
 }
+
+// state can be 0 or 1 
