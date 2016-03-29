@@ -7,7 +7,7 @@ int outPin=11;
 
 void setup()
 {
-    pinMode(ouPin,OUTPUT);
+    pinMode(outPin,OUTPUT);
     analogWrite(outPin,200);    // output = (5/255)*200 = 3.92V
 }
 
