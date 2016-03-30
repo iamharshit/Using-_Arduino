@@ -1,5 +1,5 @@
-# Speed of motor is controlled based on the given input voltage at motor pin 
-# Need To Know : analogWrite  
+// Speed of motor is controlled based on the given input voltage at motor pin 
+// Need To Know : <analogWrite>  
 
 motorPin = 9
 
