@@ -1,4 +1,6 @@
 // Speed of motor is controlled based on the given input voltage at motor pin 
+// Since the current rating of Arduio is lower then the current needed by motor, we can use a BJT instead 
+// which is powered from an exteral source
 // Need To Know : <analogWrite>  
 
 motorPin = 9;
