@@ -1,6 +1,6 @@
-###Configuring Xbee using Putty
+##Configuring Xbee using Putty
 
-Xbee1
+####Xbee1
 
 * Enter following in puty :
 
@@ -12,11 +12,11 @@ ATID1111,
 WR
 ```
 
-Xbee2
+####Xbee2
 
-*Restart session in puty
+* Restart session in puty
 
-*Enter this in puty :
+* Enter this in puty :
 
 ```
 +++
