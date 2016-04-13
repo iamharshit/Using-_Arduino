@@ -3,7 +3,7 @@
 Servo myServo;
 int servoPin=9;
 
-int pirPin[]={};
+int pirPin[]={2,3,4,5,6};
 int pirAngle[]={18,54,90,126,162};
 int pirPrevState[]={0,0,0,0,0};
 
